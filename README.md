@@ -7,7 +7,8 @@
 ## z:\test-repo> git remote add origin https://github.com/2015hcm/test-repo.git
 ## z:\test-repo> git push -u origin master
 ## username for 'https://github.com': 2015hcm
-## password for 'https://2015hcm@githum.com':
+## password for 'https://2015hcm@github.com':
+## Counting objects...
 ## To https://github.com/2015hcm/test-repo.git
 ## * [new branch] master -> master
 ## Branch master set up to track remote branch master from origin
